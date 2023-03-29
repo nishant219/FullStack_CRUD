@@ -1,0 +1,14 @@
+express- NodeJs web framework 
+         provides lot of features to create server over httpServer
+
+mongoose- mongodb object modeling for nodejs        
+          helps to write schema and other logic easily
+
+schema - object structure/model of our db
+model - way to intereact our schema+db    
+
+
+
+//with the help of below 2 lines we are storing entered data in use states
+value={email}
+onChange={(e) => setEmail(e.target.value)}
